@@ -1,0 +1,22 @@
+# Starting compiling UnityEngine.TestRunner.dll
+C:\Program Files\Unity 2020.3.27f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-32d1c20bba32f7b4fbad48534e7b3c2b
+# Starting compiling UnityEngine.UI.dll
+C:\Program Files\Unity 2020.3.27f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-256f18b7b3251114eb5011ca01c2a607
+# Starting compiling Unity.Timeline.dll
+C:\Program Files\Unity 2020.3.27f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-ebd5e1ebe692c99458d8b5a23c2c5a5f
+# Starting compiling Unity.TextMeshPro.dll
+C:\Program Files\Unity 2020.3.27f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-354b65dc64f69f542ab28fceb12db9b9
+# Starting compiling Unity.Mathematics.dll
+C:\Program Files\Unity 2020.3.27f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-15507c6e2e08fc640861c3ad51563f18
+# Starting compiling Unity.2D.Common.Runtime.dll
+C:\Program Files\Unity 2020.3.27f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-e6de9aa08b643fa4a99b118f0558d31a
+# Starting compiling Unity.InternalAPIEngineBridge.001.dll
+C:\Program Files\Unity 2020.3.27f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-0d2a2d53b7ffdec4f9c63031c0cd4545
+# Starting compiling Unity.2D.IK.Runtime.dll
+C:\Program Files\Unity 2020.3.27f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-918bd82d8526acf48814aadd96be5c87
+# Starting compiling Unity.2D.Animation.Triangle.Runtime.dll
+C:\Program Files\Unity 2020.3.27f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-5d02bcaaf58f1a940bdc1c4629af7e36
+# Starting compiling Unity.2D.Animation.Runtime.dll
+C:\Program Files\Unity 2020.3.27f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-44c6de734216fe64a9a67d6c097f0909
+# Starting compiling Assembly-CSharp.dll
+C:\Program Files\Unity 2020.3.27f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-10b8258574f7b5d4cabd7cc6a77bd47d
